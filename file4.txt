@@ -1,6 +1,8 @@
 hi 
 my name is esty
+<<<<<<< HEAD
 i love to read
 zilberberg
 and to act
+i love to bake
 
